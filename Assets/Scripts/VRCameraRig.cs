@@ -1,6 +1,6 @@
 using UnityEngine;
 
-/// <summary>
+         <summary>
 /// Attaches the XR Origin to the car's driver seat so the player rides with the car.
 /// Attach this script to the XR Origin GameObject, then assign the DriverSeat transform.
 /// </summary>
