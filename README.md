@@ -1,4 +1,4 @@
-# VR Car Driving Template for Unity
+# VR Car Driving for Unity
 
 This template provides a complete VR car driving experience for Unity Hub with XR support.
 
